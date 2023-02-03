@@ -1,0 +1,160 @@
+.cabecario {
+    background-color: rgba(255, 255, 255, 0.617);
+    width: auto;
+    height: 50px;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 12px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.25);
+
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(0, 0, 0, 0.527);
+    align-items: center;
+    height: 250px;
+    margin: 20px;
+    
+}
+
+.card1 {
+    justify-content: center;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 120px;
+    
+   
+    
+    
+    
+}
+
+main section {
+    display: flex;
+    justify-content: center;
+    margin:  80px;
+}
+
+
+
+
+main {
+    height: 1400px;
+    box-sizing: border-box;
+
+    
+    
+    
+}
+
+h1 {
+    justify-content: center;
+    display: flex;
+    font-size: 40px;
+    width: auto;
+    margin: 70px;
+    
+}
+
+.banner1 {
+    display: flex;
+    width: auto;
+    justify-content: center;
+    height: 80px;
+    font-size: 40px;
+    margin: 20px;
+    background: rgba(196, 196, 196, 0.5);
+
+}
+
+
+.banner2 {
+    display: flex;
+    width: auto;
+    justify-content: center;
+    height: 80px;
+    font-size: 40px;
+    margin: 20px;
+    background: rgba(196, 196, 196, 0.5);
+}
+
+.banner3 {
+    display: flex;
+    width: auto;
+    justify-content: center;
+    height: 80px;
+    font-size: 40px;
+    margin: 20px;
+    background: rgba(196, 196, 196, 0.5);
+
+}
+p{
+    width: auto;
+    display: flex;
+}
+
+.card-new {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 150px;
+}
+
+.preco {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 300px;
+}
+
+.preco2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 300px;
+}
+
+.card-sale {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 150px;
+
+} 
+
+.resto {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    
+}
+
+.preco strong {
+    font-size: 30px;
+}
+
+.preco span {
+    font-size:  25px;
+    border-radius: 50px;
+    background-color: green;
+}
+
+.preco2 strong {
+    font-size:  30px;
+}
+
+.preco2 span {
+    font-size: 25px;
+    background-color: yellow;
+    border-radius: 100%;
+}
+
+.icones {
+    font-size: 20px;
+    margin: 10px;
+}
